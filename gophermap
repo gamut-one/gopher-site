@@ -1,12 +1,13 @@
-iGamut One / gamut.one 70
-i--------- / gamut.one 70
-i / gamut.one 70
-iGamut One is a hosting service for  the "small web", offering  HTTPS, Gopher, and  Gemini  hosting / gamut.one 70
-iwith 200MB storage. Access is currently limited to sftp only, but in the near future we'll provide / gamut.one 70
-ia limited telnet BBS experience for account management and community tools.  / gamut.one 70
-i / gamut.one 70
-iThis site is also available via other protocols: / gamut.one 70
+Gamut One
+---------
 
-hHTTPS  URL:https://gamut.one gamut.one 70
-1Gopher / gamut.one 70
-hGemini URL:gemini://gamut.one  gamut.one 70
+Gamut One is a hosting service for  the "small web", offering  HTTPS, Gopher,
+and Gemini hosting with 200MB storage. Access is currently limited to sftp
+only, but in the near future we'll provide a limited telnet BBS experience for
+account management and community tools.
+
+This site is also available via other protocols:
+
+hHTTPS	URL:https://gamut.one	gamut.one	70
+1Gopher	/	gamut.one	70
+hGemini	URL:gemini://gamut.one	gamut.one	70
